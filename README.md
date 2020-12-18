@@ -2,4 +2,4 @@
 ## BingForPython
 每日一图
 
-### Python 抓取全部分辨率
+### Python bing 壁纸抓取全部分辨率
